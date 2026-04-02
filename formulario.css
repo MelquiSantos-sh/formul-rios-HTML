@@ -1,0 +1,10 @@
+label{
+    display: grid;
+    grid-template-columns: 70px max-content;
+}
+form{
+    border:1px solid #ccc;
+    border-radius: 5px;
+    padding: 5rem;
+    
+}
